@@ -1,4 +1,3 @@
-#include <iostream>
 #include "library.h"
 bool conversione (char &a) {
     bool t=true;
