@@ -4,11 +4,11 @@ using namespace std;
 
 int main() {
    char a=a;
-   cin>> a;
+   cin >> a;
    if (conversione (a)==false){
-       cout<< "errore";
+       cout << "errore";
    }else{
-       cout<<a;
+       cout <<a;
    }
     return 0;
 }
